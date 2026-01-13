@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "あいたい星人",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-01-13T13:18:57.374381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あいたい星人",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_あいたい星人_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あいたい星人 - Aitai-lians",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_あいたい星人_-_Aitai-lians_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あいたい星人",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_あいたい星人_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あいたい星人 (Aitai Seijin)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_あいたい星人_(Aitai_Seijin)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あいたい星人",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/05_あいたい星人_DECO∗27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいたい星人",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_あいたい星人_DECO_27.txt"
+    }
+  ]
+}
